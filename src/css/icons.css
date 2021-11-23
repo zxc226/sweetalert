@@ -2,6 +2,7 @@
 @import './icons/warning';
 @import './icons/success';
 @import './icons/info';
+@import './icons/question';
 
 .swal-icon {
   width: 80px;
